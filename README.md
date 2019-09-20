@@ -4,7 +4,7 @@ This repo contains r code solutions to computational statistics
 In this readme I introduce some nice features from are that were used in computational statistics or to visualize the results
 
 
-#### Sheet 4
+#### Sheet 5
 
 - Implementation of exact permutations test using the function *combinations* from the package *gtools*. Can be found in **Problem 1** 
 
