@@ -17,15 +17,15 @@ To mulitple functions such as ecdfs you can use *stat_function*. Can be found in
 longformat and with ggplot plot multiple boxplots regarding errors of different linear models in one plot.
 
 
-#### Sheet 5; Metropolis Hastings
+#### Sheet 6; Metropolis Hastings
 
 - Implementation of the metrpolis hastings sampler to sample from Rayleigh distribution, where as proposal density
-Gamma(X_t,1) is used. Lastly the samples are plotted as time series plot with ggplot. **Problem 1**
+$Gamma(X_t,1)$ is used. Lastly the samples are plotted as time series plot with ggplot. **Problem 1**
 
-- Implementation of metrpolis independence sampler to sample from 2-component mixture model, and proposal density is also
-uniform distribution. **Problem 3**
+- Implementation of metrpolis independence sampler to sample from 2-component mixture model, as proposal density is the
+uniform distribution used. **Problem 3**
 
 - Fancy plots where multiple MCMC chains are plotted next to each other, each chain is differently colored.
 The meaning of the color is then decoded a plot agenda. **Problem 3**
 
-- Gelman-Rubin Statistics is computed
+- Gelman-Rubin Statistics is computed. **Problem 3**
