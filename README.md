@@ -3,6 +3,21 @@ This repo contains r code solutions to computational statistics
 
 In this readme I introduce some nice features from are that were used in computational statistics or to visualize the results
 
+#### Sheet 1; Basic number random number generation
+
+- Inverse transform method
+
+- Acceptance rejection algorithm
+
+#### Sheet 2; Complex distribution simulation
+
+- Calculating the mean and variance of mixtures models
+
+- Efficient generation of multivariate normal distribution
+
+- Using conditinal mean and variance to derive variance and mean of complicated distributions
+
+- Using transfomation denisty rule to derive distributions
 
 #### Sheet 5; Permuatation test
 
